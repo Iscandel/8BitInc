@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/8BitInc/v14
+/8BitInc/Debug
+/Debug
+/ipch/8bitinc-7eb8ad98
